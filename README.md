@@ -12,3 +12,6 @@ In this project, we use data from diverse sources:
  * Construct using Python Libraries Pandas
  * Integrate using QGIS and PostGreSQL
 
+The final result by Region is: 
+
+![](https://github.com/BKeita-collab/Geospatial_Portfolio/blob/main/image/Template_CI.png)
