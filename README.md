@@ -14,4 +14,4 @@ In this project, we use data from diverse sources:
 
 **The final result by Region** is: 
 
-![](https://github.com/BKeita-collab/Geospatial_Portfolio/blob/main/image/Template_CI.png)
+![](image/Template_CI.png)
